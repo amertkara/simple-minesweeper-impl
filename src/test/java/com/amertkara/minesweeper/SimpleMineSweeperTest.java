@@ -5,7 +5,7 @@ import java.util.Arrays;
 import junit.framework.TestCase;
 
 /**
- * Tests the different functional 
+ * Tests the SimpleMineSweeper class
  * 
  * @version 0.0.1 27 February 2015
  * @author A. Mert Kara
